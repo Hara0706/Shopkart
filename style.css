@@ -1,0 +1,49 @@
+.row {
+    display: flex;
+  }
+
+.left{
+    flex: 25%;
+}
+
+.right{
+    flex: 75%;
+}
+
+.colA{
+    background-color: antiquewhite;
+    flex: 30%;
+}
+
+.colB{
+    background-color: blueviolet;
+    flex: 70%;
+}
+
+.list-group-item{
+    cursor: pointer;
+}
+
+.card{
+   width: 150%;
+   margin: 5% 5%;
+   padding: 0% 10%;
+}
+
+.bal{
+    display: flex;
+    float: left;
+    margin: 5%;
+    width: 100%;
+}
+
+.card-header{
+    text-align: center;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10%;
+}
+  
